@@ -1,0 +1,13 @@
+Git Helper:
+
+#make a file/folder. below example is copying something
+> cp test.txt test1.txt 
+> git add .
+> git commit -m "Added a copy of test"
+> git push origin master
+> git log
+
+#To delete a folder/file:
+> git rm -r test
+> git commit -m "Deleted folder test"
+> git push origin master
