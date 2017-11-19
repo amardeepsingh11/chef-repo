@@ -11,4 +11,4 @@
 */.svn/*
 
 #ignore knife.rb since it contains the aws key information
-knife.rb
+chef/knife.rb
