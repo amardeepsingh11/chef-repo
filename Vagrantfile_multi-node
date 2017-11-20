@@ -24,7 +24,7 @@ config.berkshelf.enabled = true
     chef.chef_server_url = "https://api.chef.io/organizations/devops11"
     chef.validation_key_path = "devops11-validator.pem"
     chef.validation_client_name = "devops11-validator"
-    chef.node_name = "server_db"
+    chef.node_name = "server"
   end
  end
 

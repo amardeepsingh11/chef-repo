@@ -16,5 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
 Chef::Log.warn('The default tomcat recipe does nothing. See the readme for information on using the tomcat resources')
